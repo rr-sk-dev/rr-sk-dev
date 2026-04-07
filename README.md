@@ -1,16 +1,25 @@
-## Hi there 👋
+# Ruben Rodrigues
 
-<!--
-**rr-sk-dev/rr-sk-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer
 
-Here are some ideas to get you started:
+📍 Lisbon  
+🏠 Working Remotely
+🌐 https://rrodrigues.dev  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+Full Stack Developer focused on scalable web applications and clean architecture.
+
+---
+
+### Tech Stack
+- Frontend: Angular, TailwindCSS
+- Backend: NestJS
+- Database: PostgreSQL, MongoDB
+- DevOps: Docker
+
+---
+
+### Contact
+📫 You can reach me at rr.sk.dev@gmail.com.
