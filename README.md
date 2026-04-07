@@ -3,7 +3,7 @@
 ### Full Stack Developer
 
 📍 Lisbon  
-🏠 Working Remotely
+🏠 Working Remotely  
 🌐 https://rrodrigues.dev  
 
 ---
