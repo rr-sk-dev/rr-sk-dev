@@ -22,4 +22,4 @@ Full Stack Developer focused on scalable web applications and clean architecture
 ---
 
 ### Contact
-📫 You can reach me at rr.sk.dev@gmail.com.
+📫 Reach me at **rr.sk.dev@gmail.com**
