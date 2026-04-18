@@ -4,7 +4,7 @@
 
 📍 Lisbon  
 🏠 Working Remotely  
-🌐 <a href="https://rrodrigues.dev" target="_blank" rel="noopener noreferrer">www.rrodrigues.dev</a>
+🌐 [rrodrigues.dev](https://rrodrigues.dev) ↗
 
 ---
 
